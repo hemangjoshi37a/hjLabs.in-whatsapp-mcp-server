@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Store directory
+store/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test files
+*_test.go
